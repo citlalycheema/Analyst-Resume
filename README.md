@@ -19,17 +19,13 @@ Detail-driven and organized with 6+ years of experience supporting administrativ
 ### EDUCATION
 
 American University, Washington, DC						   
-M.A. in International Development 
+M.A. in International Development | Anticipated Graduation: May 2023
 Graduate Certificate in Social Innovation for Global Impact
 Relevant Coursework: Stats and Methods, Culturally-Responsive Program Design, Professional Development Management, Private Sector Engagement with Social Issues, Organizational Effectivness for International Service, Consulting for Social Impact
 
-Anticipated Graduation: May 2023
-
-San Diego State University, San Diego, CA					   
+San Diego State University, San Diego, CA | May 2016					   
 B.A. in International Business, Concentration: Arabic and the Middle East				                  
 Honors Minor in Interdisciplinary Studies, Minor in International Security and Conflict Resolution
-
-May 2016
 
 Study Abroad: 
 Noor Majan Training Institute, Ibri, Oman. Summer 2015. 
