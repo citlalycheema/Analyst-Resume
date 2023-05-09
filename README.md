@@ -37,8 +37,9 @@ SDSU Service-Learning Program, Bolivia. Summer 2013.
 	
 ### EXPERIENCE
 
-Highlight Technologies: USAID, Office of Development Cooperation		            Washington, DC
-Junior Program Analyst	              		                                                            	            January 2020 - Present	
+Highlight Technologies: USAID, Office of Development Cooperation, Washington, DC		           
+Junior Program Analyst
+January 2020 - Present
 - Support compliance with data reporting processes, which includes analyzing donor financial commitments data to find inefficiencies, updating the donor commitment dashboard on Tableau, and generating reports.
 - Collaborated with data scientists to ensure monthly updates on on the donor commitment dashboard on Tableau.
 - Assist with the G20 Development Working Group portfolio; coordinate across bureaus and interagency for technical input on outcome documents; represent U.S. policy positions; prepare key messaging for the U.S. head of delegation and advise during negotiations.
