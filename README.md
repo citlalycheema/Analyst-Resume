@@ -11,21 +11,25 @@ Detail-driven and organized with 6+ years of experience supporting administrativ
 - Data visualization 	
 - Data wrangling
 - Analytic skills, including data interpretation 
-- Proficient in R, R Studio and Tableau		
+- Proficient in R, R Studio, R Markdown, and Tableau		
 - Strong statistical skills
 - Data and project management
 
 
 ### EDUCATION
 
-American University, Washington, DC						     Anticipated Graduation: May 2023
+American University, Washington, DC						   
 M.A. in International Development 
 Graduate Certificate in Social Innovation for Global Impact
 Relevant Coursework: Stats and Methods, Culturally-Responsive Program Design, Professional Development Management, Private Sector Engagement with Social Issues, Organizational Effectivness for International Service, Consulting for Social Impact
 
-San Diego State University, San Diego, CA					     May 2016
+Anticipated Graduation: May 2023
+
+San Diego State University, San Diego, CA					   
 B.A. in International Business, Concentration: Arabic and the Middle East				                  
 Honors Minor in Interdisciplinary Studies, Minor in International Security and Conflict Resolution
+
+May 2016
 
 Study Abroad: 
 Noor Majan Training Institute, Ibri, Oman. Summer 2015. 
