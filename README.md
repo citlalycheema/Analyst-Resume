@@ -7,7 +7,7 @@ Washington, DC | 619.252.5099 | citlaly.cheema@gmail.com | github.com/citlalyche
 
 Detail-driven and organized with 6+ years of experience supporting administrative, operational, and knowledge management needs in the public sector. Highly educated, possessing a Bachelor’s in International Business and a Master’s in International Development. Bilingual in English and Spanish, with an intermediate understanding of Arabic. Seeking a Junior Data Analyst position to further develop data visualization skills and deepen knowledge.
 
-TECHNICAL SKILLS
+## TECHNICAL SKILLS
 - Data visualization 	
 - Data wrangling
 - Analytic skills, including data interpretation 
