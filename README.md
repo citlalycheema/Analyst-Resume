@@ -1,6 +1,6 @@
 # Analyst-Resume
 
-**Citlaly Cheema**
+#**Citlaly Cheema**
 
 Washington, DC | 619.252.5099 | citlaly.cheema@gmail.com | github.com/citlalycheema
 
