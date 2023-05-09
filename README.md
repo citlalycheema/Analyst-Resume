@@ -1,9 +1,10 @@
 # Analyst-Resume
 
-Citlaly Cheema
+**Citlaly Cheema**
+
 Washington, DC | 619.252.5099 | citlaly.cheema@gmail.com | github.com/citlalycheema
 
-PROFESSIONAL SUMMARY
+**PROFESSIONAL SUMMARY**
 
 Detail-driven and organized with 6+ years of experience supporting administrative, operational, and knowledge management needs in the public sector. Highly educated, possessing a Bachelor’s in International Business and a Master’s in International Development. Bilingual in English and Spanish, with an intermediate understanding of Arabic. Seeking a Junior Data Analyst position to further develop data visualization skills and deepen knowledge.
 
@@ -17,7 +18,7 @@ TECHNICAL SKILLS
  
 
 
-EDUCATION
+**EDUCATION**
 
 American University, Washington, DC						     Anticipated Graduation: May 2023
 M.A. in International Development 
@@ -36,7 +37,7 @@ Noor Majan Training Institute, Ibri, Oman. Summer 2015.
 SDSU Service-Learning Program, Bolivia. Summer 2013.
 - Participated in a short-term service-learning program focused on sustainable development initiatives.
 	
-EXPERIENCE
+**EXPERIENCE**
 
 Highlight Technologies: USAID, Office of Development Cooperation		            Washington, DC
 Junior Program Analyst	              		                                                            	            January 2020 - Present	
