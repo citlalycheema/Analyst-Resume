@@ -8,6 +8,7 @@ Washington, DC | 619.252.5099 | citlaly.cheema@gmail.com | github.com/citlalyche
 Detail-driven and organized with 6+ years of experience supporting administrative, operational, and knowledge management needs in the public sector. Highly educated, possessing a Bachelor’s in International Business and a Master’s in International Development. Bilingual in English and Spanish, with an intermediate understanding of Arabic. Seeking a Junior Data Analyst position to further develop data visualization skills and deepen knowledge.
 
 ### TECHNICAL SKILLS
+
 - Data visualization 	
 - Data wrangling
 - Analytic skills, including data interpretation 
@@ -15,13 +16,12 @@ Detail-driven and organized with 6+ years of experience supporting administrativ
 - Strong statistical skills
 - Data and project management
 
-
 ### EDUCATION
 
 American University, Washington, DC						   
 M.A. in International Development | Anticipated Graduation: May 2023
-  Graduate Certificate in Social Innovation for Global Impact
-  Relevant Coursework: Stats and Methods, Culturally-Responsive Program Design, Professional Development Management, Private Sector Engagement with Social Issues, Organizational Effectivness for International Service, Consulting for Social Impact
+Graduate Certificate in Social Innovation for Global Impact
+Relevant Coursework: Stats and Methods, Culturally-Responsive Program Design, Professional Development Management, Private Sector Engagement with Social Issues, Organizational Effectivness for International Service, Consulting for Social Impact
 
 San Diego State University, San Diego, CA | May 2016					   
 B.A. in International Business, Concentration: Arabic and the Middle East				                  
