@@ -14,10 +14,9 @@ TECHNICAL SKILLS
 - Proficient in R, R Studio and Tableau		
 - Strong statistical skills
 - Data and project management
- 
 
 
-**EDUCATION**
+### EDUCATION
 
 American University, Washington, DC						     Anticipated Graduation: May 2023
 M.A. in International Development 
@@ -36,7 +35,7 @@ Noor Majan Training Institute, Ibri, Oman. Summer 2015.
 SDSU Service-Learning Program, Bolivia. Summer 2013.
 - Participated in a short-term service-learning program focused on sustainable development initiatives.
 	
-**EXPERIENCE**
+### EXPERIENCE
 
 Highlight Technologies: USAID, Office of Development Cooperation		            Washington, DC
 Junior Program Analyst	              		                                                            	            January 2020 - Present	
@@ -67,12 +66,12 @@ Administrative Assistant						        		           September 2017 – May 2018
 - Managed room reservation calendar for largest privately-owned meeting space in Washington, DC; resolved meeting conflicts and coordinated with POCs regarding meeting logistics. 
 - Assisted with on-boarding new staff to ensure the procurement of physical building access.
 
-**VOLUNTEER**
+### VOLUNTEER
 - American Councils for Education, Screening Panelist and Evaluator, September 2019 – January 2021
 - Paper Airlines, ESL Tutor, February 2016 – April 2016
 - International Rescue Committee, Higher Learning Navigation Tutor, January 2015 – May 2015
 
-**HONORS & AWARDS**
+### HONORS & AWARDS
 - HACU National Internship Program		
 - Critical Language Scholarship
 - SDSU Presidential Scholars Program
