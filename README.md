@@ -68,12 +68,12 @@ Administrative Assistant						        		           September 2017 – May 2018
 - Managed room reservation calendar for largest privately-owned meeting space in Washington, DC; resolved meeting conflicts and coordinated with POCs regarding meeting logistics. 
 - Assisted with on-boarding new staff to ensure the procurement of physical building access.
 
-VOLUNTEER
-- American Councils for Education, Screening Panelist and Evaluator  	September 2019 – January 2021
-- Paper Airlines, ESL Tutor						February 2016 – April 2016
-- International Rescue Committee, Higher Learning Navigation Tutor		January 2015 – May 2015
+**VOLUNTEER**
+- American Councils for Education, Screening Panelist and Evaluator, September 2019 – January 2021
+- Paper Airlines, ESL Tutor, February 2016 – April 2016
+- International Rescue Committee, Higher Learning Navigation Tutor, January 2015 – May 2015
 
-HONORS & AWARDS
+**HONORS & AWARDS**
 - HACU National Internship Program		
 - Critical Language Scholarship
 - SDSU Presidential Scholars Program
