@@ -54,14 +54,15 @@ Program Assistant	              		                                              
 - Facilitated and tracked clearance of memos, action items, travel clearances, and voucher preparations.
 - Scheduled meetings for Africa Division staff, including conference room and conference line reservations, calendar invitations, preparation of agenda, note-taking, and distribution of materials.		
 	        
-Operations and Facilities Coordinator                                                                	         	             May 2018 – April 2019
+Operations and Facilities Coordinator                                                                	         	          May 2018 – April 2019
 - Served as backup Team Lead of Operations and Facilities team for two months; provided program support to OFDA and FFP task orders, drafted and circulated building-wide notices, and reconciled weekly purchases.
 - Created and executed Emergency and Evacuation Action Plan for 600 employees.
 - Point of contact for external agency reservation requests and USAID event coordination.
 - Maintained office-wide directories: listservs and Mission contact lists, including position, phone, and email.
 - Served as backup Executive Assistant for FFP Director and Deputy Director; assisted with coordinating memos and scheduling calendars for the senior management team.
 
-Administrative Assistant						        		           September 2017 – May 2018
+Administrative Assistant						        		          
+September 2017 – May 2018
 - Key contributor to office move coordination of 400 people over the course of 2 months; created standard operating procedures for the front desk and continuously improved upon them to ensure smooth operations.
 - Provided support in the scheduling and execution of two Annual Global Meetings.
 - Managed room reservation calendar for largest privately-owned meeting space in Washington, DC; resolved meeting conflicts and coordinated with POCs regarding meeting logistics. 
