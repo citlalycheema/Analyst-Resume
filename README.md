@@ -18,9 +18,9 @@ Detail-driven and organized with 6+ years of experience supporting administrativ
 
 ### EDUCATION
 
-American University, Washington, DC | May 2023 
-M.A. in International Development 
-Graduate Certificate in Social Innovation for Global Impact 
+American University, Washington, DC | May 2023  
+M.A. in International Development  
+Graduate Certificate in Social Innovation for Global Impact  
 Relevant Coursework: Stats and Methods, Culturally-Responsive Program Design, Professional Development Management, Private Sector Engagement with Social Issues, Organizational Effectivness for International Service, Consulting for Social Impact
 
 San Diego State University, San Diego, CA | May 2016					   
